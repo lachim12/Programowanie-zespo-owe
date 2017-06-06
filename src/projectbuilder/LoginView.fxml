@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.BorderPane?>
+
+<BorderPane xmlns="http://javafx.com/javafx/8.0.40" xmlns:fx="http://javafx.com/fxml/1" fx:controller="projectbuilder.LoginViewController">
+   <center>
+      <Pane prefHeight="200.0" prefWidth="200.0" BorderPane.alignment="CENTER">
+         <children>
+            <Button fx:id="login_button" layoutX="76.0" layoutY="126.0" mnemonicParsing="false" onAction="#login" text="Zaloguj" />
+            <TextField fx:id="username_text" layoutX="26.0" layoutY="41.0" promptText="Nazwa uzytkownika" />
+            <PasswordField fx:id="password_text" layoutX="26.0" layoutY="75.0" promptText="Haslo" />
+            <Button layoutX="64.0" layoutY="161.0" mnemonicParsing="false" onAction="#showUserDataEditDialog" text="Rejestruj sie" />
+         </children>
+      </Pane>
+   </center>
+</BorderPane>

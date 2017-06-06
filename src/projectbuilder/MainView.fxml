@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.shape.*?>
+<?import javafx.scene.web.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="400.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/8.0.40" xmlns:fx="http://javafx.com/fxml/1" fx:controller="projectbuilder.MainViewController">
+   <children>
+      <TableView fx:id="table" prefHeight="350.0" prefWidth="600.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="25.0">
+        <columns>
+            <TableColumn fx:id="seven" prefWidth="75.0" text="Nazwa uzytkownika" />
+          <TableColumn fx:id="one" prefWidth="75.0" text="Nazwa zadania" />
+          <TableColumn fx:id="two" prefWidth="75.0" text="Projekt" />
+            <TableColumn fx:id="three" prefWidth="75.0" text="Opis" />
+            <TableColumn fx:id="four" prefWidth="75.0" text="Data rozpoczęcia" />
+            <TableColumn fx:id="five" prefWidth="75.0" text="Data zakonczenia" />
+            <TableColumn fx:id="six" prefWidth="75.0" text="Status" />
+        </columns>
+         <columnResizePolicy>
+            <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
+         </columnResizePolicy>
+      </TableView>
+      <MenuBar AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+        <menus>
+          <Menu mnemonicParsing="false" text="Okna">
+            <items>
+              <MenuItem mnemonicParsing="false" onAction="#show_AssignView" text="Przydzialy" />
+                  <MenuItem mnemonicParsing="false" onAction="#show_ProjectView" text="Projekty" />
+                  <MenuItem mnemonicParsing="false" onAction="#show_TaskView" text="Zadania" />
+                  <MenuItem mnemonicParsing="false" onAction="#show_UserView" text="Użytkownicy" />
+            </items>
+          </Menu>
+          <Menu mnemonicParsing="false" text="Opcje">
+            <items>
+              <MenuItem mnemonicParsing="false" onAction="#showSearchDialog" text="Szukaj" />
+                  <MenuItem mnemonicParsing="false" onAction="#generateReport" text="Generuj raport" />
+            </items>
+          </Menu>
+        </menus>
+      </MenuBar>
+   </children>
+</AnchorPane>

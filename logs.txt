@@ -1,0 +1,313 @@
+jdbc:sqlite:/C:/Users/Daniel/Documents/NetBeansProjects/ProjectBuilder/dist/run1112874768/ProjectBuilder.jarProjectBuilder.db
+jdbc:sqlite:/C:/Users/Daniel/Documents/NetBeansProjects/ProjectBuilder/dist/ProjectBuilder.jarProjectBuilder.db
+jdbc:sqlite:/C:/Users/Daniel/Documents/NetBeansProjects/ProjectBuilder/dist/run1577057300/ProjectBuilder.jarProjectBuilder.db
+jdbc:sqlite:/C:/Users/Daniel/Documents/NetBeansProjects/ProjectBuilder/dist/run1394224876/ProjectBuilder.jarProjectBuilder.db
+Pocz�tek po��czenia
+jdbc:sqlite:/C:/Users/Daniel/Documents/NetBeansProjects/ProjectBuilder/dist/run1259572477/ProjectBuilder.jarProjectBuilder.db
+Pocz�tek po��czenia
+jdbc:sqlite:/C:/Users/Daniel/Documents/NetBeansProjects/ProjectBuilder/dist/run665729416/ProjectBuilder.jarProjectBuilder.db
+Pocz�tek po��czenia
+jdbc:sqlite:/C:/Users/Daniel/Documents/NetBeansProjects/ProjectBuilder/dist/ProjectBuilder.jarProjectBuilder.db
+Pocz�tek po��czenia
+jdbc:sqlite:/C:/Users/Daniel/Documents/NetBeansProjects/ProjectBuilder/dist/run1540486080/ProjectBuilder.jarProjectBuilder.db
+Pocz�tek po��czenia
+jdbc:sqlite:/C:/Users/Daniel/Documents/NetBeansProjects/ProjectBuilder/dist/run402648452/ProjectBuilder.jarProjectBuilder.db
+Pocz�tek po��czenia
+jdbc:sqlite:/C:/Users/Daniel/Documents/NetBeansProjects/ProjectBuilder/dist/run554917867/ProjectBuilder.jarProjectBuilder.db
+Pocz�tek po��czenia
+jdbc:sqlite:/C:/Users/Daniel/Documents/NetBeansProjects/ProjectBuilder/dist/run421578687/ProjectBuilder.jarProjectBuilder.db
+Pocz�tek po��czenia
+jdbc:sqlite:/C:/Users/Daniel/Documents/NetBeansProjects/ProjectBuilder/dist/run768320625/ProjectBuilder.jarProjectBuilder.db
+Pocz�tek po��czenia
+jdbc:sqlite:/C:/Users/Daniel/Documents/NetBeansProjects/ProjectBuilder/dist/run500345764/ProjectBuilder.jarProjectBuilder.db
+Pocz�tek po��czenia
+jdbc:sqlite:/C:/Users/Daniel/Documents/NetBeansProjects/ProjectBuilder/dist/run480263815/ProjectBuilder.jarProjectBuilder.db
+Pocz�tek po��czenia
+jdbc:sqlite:/C:/Users/Daniel/Documents/NetBeansProjects/ProjectBuilder/src/projectbuilderProjectBuilder.db
+Pocz�tek po��czenia
+jdbc:sqlite:/C:/Users/Daniel/Documents/NetBeansProjects/ProjectBuilder/src/projectbuilder/ProjectBuilder.db
+Pocz�tek po��czenia
+jdbc:sqlite:/C:/Users/Daniel/Documents/NetBeansProjects/ProjectBuilder/src/projectbuilder/ProjectBuilder.db
+Pocz�tek po��czenia
+SELECT * FROM user WHERE login LIKE 'user1'
+SELECT * FROM user WHERE login LIKE 'user1'
+SELECT * FROM user WHERE login LIKE 'user'
+SELECT * FROM user WHERE login LIKE 'user'
+Koniec po��czenia
+
+jdbc:sqlite:/C:/Users/Daniel/Documents/NetBeansProjects/ProjectBuilder/dist/run242608152/ProjectBuilder.jarProjectBuilder.db
+Poczatek polaczenia
+jdbc:sqlite:/C:/Users/Daniel/Documents/NetBeansProjects/ProjectBuilder/dist/run969184940/ProjectBuilder.jarProjectBuilder.db
+Poczatek polaczenia
+jdbc:sqlite:/C:/Users/Daniel/Documents/NetBeansProjects/ProjectBuilder/src/projectbuilder/ProjectBuilder.db
+Poczatek polaczenia
+SELECT * FROM user WHERE login LIKE 'user'
+SELECT * FROM user WHERE login LIKE 'user1'
+SELECT * FROM user WHERE login LIKE 'user2'
+Koniec polaczenia
+
+jdbc:sqlite:/C:/Users/Daniel/Documents/NetBeansProjects/ProjectBuilder/src/projectbuilder/ProjectBuilder.db
+Poczatek polaczenia
+SELECT * FROM user WHERE login LIKE 'user1'
+Koniec polaczenia
+
+jdbc:sqlite:/C:/Users/Daniel/Documents/NetBeansProjects/ProjectBuilder/src/projectbuilder/ProjectBuilder.db
+Poczatek polaczenia
+SELECT * FROM user WHERE login LIKE 'user1'
+jdbc:sqlite:/C:/Users/Daniel/Documents/NetBeansProjects/ProjectBuilder/src/projectbuilder/ProjectBuilder.db
+Poczatek polaczenia
+SELECT * FROM user WHERE login LIKE 'user1'
+jdbc:sqlite:/C:/Users/Daniel/Documents/NetBeansProjects/ProjectBuilder/src/projectbuilder/ProjectBuilder.db
+Poczatek polaczenia
+SELECT * FROM user WHERE login LIKE 'user1'
+Uzytkownik user1 zalogował sie dnia 2015-06-13 12:58:00
+SELECT * FROM user WHERE login LIKE 'user1'
+Uzytkownik user1 zalogował sie dnia 2015-06-13 12:58:00
+SELECT * FROM user WHERE login LIKE 'user1'
+Uzytkownik user1 zalogował sie dnia 2015-06-13 12:58:00
+SELECT * FROM user WHERE login LIKE 'user1'
+Uzytkownik user1 zalogował sie dnia 2015-06-13 12:58:00
+SELECT * FROM user WHERE login LIKE 'user1'
+Uzytkownik user1 zalogował sie dnia 2015-06-13 12:58:00
+SELECT * FROM user WHERE login LIKE 'user1'
+Uzytkownik user1 zalogował sie dnia 2015-06-13 12:58:00
+SELECT * FROM user WHERE login LIKE 'user1'
+Uzytkownik user1 zalogował sie dnia 2015-06-13 12:58:00
+SELECT * FROM user WHERE login LIKE 'user1'
+Uzytkownik user1 zalogował sie dnia 2015-06-13 12:58:00
+Koniec polaczenia
+
+jdbc:sqlite:/C:/Users/Daniel/Documents/NetBeansProjects/ProjectBuilder/src/projectbuilder/ProjectBuilder.db
+Poczatek polaczenia
+SELECT * FROM user WHERE login LIKE 'user1'
+Uzytkownik user1 zalogował sie dnia 2015-06-13 12:58:00
+jdbc:sqlite:/C:/Users/Daniel/Documents/NetBeansProjects/ProjectBuilder/src/projectbuilder/ProjectBuilder.db
+Poczatek polaczenia
+SELECT * FROM user WHERE login LIKE 'user1'
+Uzytkownik user1 zalogował sie dnia 2015-06-13 12:58:00
+Koniec polaczenia
+
+jdbc:sqlite:/C:/Users/Daniel/Documents/NetBeansProjects/ProjectBuilder/src/projectbuilder/ProjectBuilder.db
+Poczatek polaczenia
+SELECT * FROM user WHERE login LIKE 'user1'
+Uzytkownik user1 zalogował sie dnia 2015-06-13 12:58:00
+Koniec polaczenia
+
+jdbc:sqlite:/C:/Users/Daniel/Documents/NetBeansProjects/ProjectBuilder/src/projectbuilder/ProjectBuilder.db
+Poczatek polaczenia
+SELECT * FROM user WHERE login LIKE 'user2'
+Uzytkownik user2 zalogował sie dnia 2015-06-13 13:00:02
+jdbc:sqlite:/C:/Users/Daniel/Documents/NetBeansProjects/ProjectBuilder/src/projectbuilder/ProjectBuilder.db
+Poczatek polaczenia
+SELECT * FROM user WHERE login LIKE 'user2'
+Uzytkownik user2 zalogował sie dnia 2015-06-13 13:00:02
+jdbc:sqlite:/C:/Users/Daniel/Documents/NetBeansProjects/ProjectBuilder/src/projectbuilder/ProjectBuilder.db
+Poczatek polaczenia
+SELECT * FROM user WHERE login LIKE 'user2'
+Uzytkownik user2 zalogował sie dnia 2015-06-13 13:00:02
+Koniec polaczenia
+
+Koniec polaczenia
+
+jdbc:sqlite:/C:/Users/Daniel/Documents/NetBeansProjects/ProjectBuilder/src/projectbuilder/ProjectBuilder.db
+Poczatek polaczenia
+SELECT * FROM user WHERE login LIKE 'user2'
+Uzytkownik user2 zalogował sie dnia 2015-06-13 13:00:02
+Koniec polaczenia
+
+jdbc:sqlite:/C:/Users/Daniel/Documents/NetBeansProjects/ProjectBuilder/src/projectbuilder/ProjectBuilder.db
+Poczatek polaczenia
+SELECT * FROM user WHERE login LIKE 'user2'
+Uzytkownik user2 zalogował sie dnia 2015-06-13 13:00:02
+Koniec polaczenia
+
+jdbc:sqlite:/C:/Users/Daniel/Documents/NetBeansProjects/ProjectBuilder/src/projectbuilder/ProjectBuilder.db
+Poczatek polaczenia
+SELECT * FROM user WHERE login LIKE 'user2'
+Uzytkownik user2 zalogował sie dnia 2015-06-13 13:00:02
+Koniec polaczenia
+
+jdbc:sqlite:/C:/Users/Daniel/Documents/NetBeansProjects/ProjectBuilder/src/projectbuilder/ProjectBuilder.db
+Poczatek polaczenia
+SELECT * FROM user WHERE login LIKE 'user2'
+Uzytkownik user2 zalogował sie dnia 2015-06-13 13:00:02
+Koniec polaczenia
+
+jdbc:sqlite:/C:/Users/Daniel/Documents/NetBeansProjects/ProjectBuilder/src/projectbuilder/ProjectBuilder.db
+Poczatek polaczenia
+SELECT * FROM user WHERE login LIKE 'user2'
+Uzytkownik user2 zalogował sie dnia 2015-06-13 13:00:02
+jdbc:sqlite:/C:/Users/Daniel/Documents/NetBeansProjects/ProjectBuilder/src/projectbuilder/ProjectBuilder.db
+Poczatek polaczenia
+SELECT * FROM user WHERE login LIKE 'user2'
+Uzytkownik user2 zalogował sie dnia 2015-06-13 13:00:02
+jdbc:sqlite:/C:/Users/Daniel/Documents/NetBeansProjects/ProjectBuilder/src/projectbuilder/ProjectBuilder.db
+Poczatek polaczenia
+SELECT * FROM user WHERE login LIKE 'user2'
+Uzytkownik user2 zalogował sie dnia 2015-06-13 13:00:02
+jdbc:sqlite:/C:/Users/Daniel/Documents/NetBeansProjects/ProjectBuilder/src/projectbuilder/ProjectBuilder.db
+Poczatek polaczenia
+SELECT * FROM user WHERE login LIKE 'user2'
+Uzytkownik user2 zalogował sie dnia 2015-06-13 13:00:02
+jdbc:sqlite:/C:/Users/Daniel/Documents/NetBeansProjects/ProjectBuilder/src/projectbuilder/ProjectBuilder.db
+Poczatek polaczenia
+SELECT * FROM user WHERE login LIKE 'user2'
+Uzytkownik user2 zalogował sie dnia 2015-06-13 13:00:02
+jdbc:sqlite:/C:/Users/Daniel/Documents/NetBeansProjects/ProjectBuilder/src/projectbuilder/ProjectBuilder.db
+Poczatek polaczenia
+SELECT * FROM user WHERE login LIKE 'user1'
+Uzytkownik user1 zalogował sie dnia 2015-06-13 12:58:00
+Koniec polaczenia
+
+jdbc:sqlite:/C:/Users/Daniel/Documents/NetBeansProjects/ProjectBuilder/src/projectbuilder/ProjectBuilder.db
+Poczatek polaczenia
+SELECT * FROM user WHERE login LIKE 'user2'
+Uzytkownik user2 zalogował sie dnia 2015-06-13 13:00:02
+Koniec polaczenia
+
+jdbc:sqlite:/C:/Users/Daniel/Documents/NetBeansProjects/ProjectBuilder/src/projectbuilder/ProjectBuilder.db
+Poczatek polaczenia
+SELECT * FROM user WHERE login LIKE 'user2'
+Uzytkownik user2 zalogował sie dnia 2015-06-13 13:00:02
+Koniec polaczenia
+
+jdbc:sqlite:/C:/Users/Daniel/Documents/NetBeansProjects/ProjectBuilder/src/projectbuilder/ProjectBuilder.db
+Poczatek polaczenia
+SELECT * FROM user WHERE login LIKE 'user2'
+Uzytkownik user2 zalogował sie dnia 2015-06-13 13:00:02
+Koniec polaczenia
+
+jdbc:sqlite:/C:/Users/Daniel/Documents/NetBeansProjects/ProjectBuilder/src/projectbuilder/ProjectBuilder.db
+Poczatek polaczenia
+jdbc:sqlite:/C:/Users/Daniel/Documents/NetBeansProjects/ProjectBuilder/src/projectbuilder/ProjectBuilder.db
+Poczatek polaczenia
+SELECT * FROM user WHERE login LIKE 'user2'
+Uzytkownik user2 zalogował sie dnia 2015-06-13 13:00:02
+SELECT * FROM user WHERE login LIKE 'user1'
+Uzytkownik user1 zalogował sie dnia 2015-06-13 12:58:00
+Koniec polaczenia
+
+Koniec polaczenia
+
+jdbc:sqlite:/C:/Users/Daniel/Documents/NetBeansProjects/ProjectBuilder/src/projectbuilder/ProjectBuilder.db
+Poczatek polaczenia
+SELECT * FROM user WHERE login LIKE 'user'
+SELECT * FROM user WHERE login LIKE 'user1'
+Uzytkownik user1 zalogował sie dnia 2015-06-13 12:58:00
+Koniec polaczenia
+
+jdbc:sqlite:/C:/Users/Daniel/Documents/NetBeansProjects/ProjectBuilder/src/projectbuilder/ProjectBuilder.db
+Poczatek polaczenia
+SELECT * FROM user WHERE login LIKE 'user1'
+Uzytkownik user1 zalogował sie dnia 2015-06-13 12:58:00
+Koniec polaczenia
+
+jdbc:sqlite:/C:/Users/Daniel/Documents/NetBeansProjects/ProjectBuilder/src/projectbuilder/ProjectBuilder.db
+Poczatek polaczenia
+SELECT * FROM user WHERE login LIKE 'user1'
+Uzytkownik user1 zalogował sie dnia 2015-06-13 12:58:00
+Koniec polaczenia
+
+jdbc:sqlite:/C:/Users/Daniel/Documents/NetBeansProjects/ProjectBuilder/src/projectbuilder/ProjectBuilder.db
+Poczatek polaczenia
+jdbc:sqlite:/C:/Users/Daniel/Documents/NetBeansProjects/ProjectBuilder/src/projectbuilder/ProjectBuilder.db
+Poczatek polaczenia
+INSERT INTO user VALUES (?,'Daniel','Banaś','daniel','test@test.pl','ȫȜȪȫǨǩǪ','0')
+SELECT * FROM user WHERE login LIKE 'daniel'
+SELECT * FROM user WHERE login LIKE 'daniel'
+Koniec polaczenia
+
+jdbc:sqlite:/C:/Users/Daniel/Documents/NetBeansProjects/ProjectBuilder/src/projectbuilder/ProjectBuilder.db
+Poczatek polaczenia
+SELECT * FROM user WHERE login LIKE 'daniel'
+Uzytkownik daniel zalogował sie dnia 2015-06-13 13:08:56
+SELECT * FROM user WHERE login LIKE 'user1'
+Koniec polaczenia
+
+jdbc:sqlite:/C:/Users/Daniel/Documents/NetBeansProjects/ProjectBuilder/src/projectbuilder/ProjectBuilder.db
+Poczatek polaczenia
+SELECT * FROM user WHERE login LIKE 'user1'
+Uzytkownik user1 zalogował sie dnia 2015-06-13 12:58:00
+Koniec polaczenia
+
+Koniec polaczenia
+
+jdbc:sqlite:/C:/Users/Daniel/Documents/NetBeansProjects/ProjectBuilder/src/projectbuilder/ProjectBuilder.db
+Poczatek polaczenia
+SELECT * FROM user WHERE login LIKE 'daniel'
+SELECT * FROM user WHERE login LIKE 'daniel'
+jdbc:sqlite:/C:/Users/Daniel/Documents/NetBeansProjects/ProjectBuilder/src/projectbuilder/ProjectBuilder.db
+Poczatek polaczenia
+SELECT * FROM user WHERE login LIKE 'user2'
+Koniec polaczenia
+
+jdbc:sqlite:/C:/Users/Daniel/Documents/NetBeansProjects/ProjectBuilder/src/projectbuilder/ProjectBuilder.db
+Poczatek polaczenia
+SELECT * FROM user WHERE login LIKE 'user2'
+Uzytkownik user2 zalogował sie dnia 2015-06-13 13:00:02
+SELECT * FROM user WHERE login LIKE 'user1'
+Uzytkownik user1 zalogował sie dnia 2015-06-13 12:58:00
+jdbc:sqlite:/C:/Users/Daniel/Documents/NetBeansProjects/ProjectBuilder/src/projectbuilder/ProjectBuilder.db
+Poczatek polaczenia
+SELECT * FROM user WHERE login LIKE 'user2'
+Uzytkownik user2 zalogował sie dnia 2015-06-13 13:00:02
+jdbc:sqlite:/C:/Users/Daniel/Documents/NetBeansProjects/ProjectBuilder/src/projectbuilder/ProjectBuilder.db
+Poczatek polaczenia
+SELECT * FROM user WHERE login LIKE 'user2'
+Uzytkownik user2 zalogował sie dnia 2015-06-13 13:00:02
+jdbc:sqlite:/C:/Users/Daniel/Documents/NetBeansProjects/ProjectBuilder/src/projectbuilder/ProjectBuilder.db
+Poczatek polaczenia
+SELECT * FROM user WHERE login LIKE 'user2'
+Uzytkownik user2 zalogował sie dnia 2015-06-13 13:00:02
+jdbc:sqlite:/C:/Users/Daniel/Documents/NetBeansProjects/ProjectBuilder/src/projectbuilder/ProjectBuilder.db
+Poczatek polaczenia
+SELECT * FROM user WHERE login LIKE 'user2'
+Uzytkownik user2 zalogował sie dnia 2015-06-13 13:00:02
+jdbc:sqlite:/C:/Users/Daniel/Documents/NetBeansProjects/ProjectBuilder/src/projectbuilder/ProjectBuilder.db
+Poczatek polaczenia
+SELECT * FROM user WHERE login LIKE 'user2'
+Uzytkownik user2 zalogował sie dnia 2015-06-13 13:00:02
+Koniec polaczenia
+
+jdbc:sqlite:/C:/Users/Daniel/Documents/NetBeansProjects/ProjectBuilder/src/projectbuilder/ProjectBuilder.db
+Poczatek polaczenia
+SELECT * FROM user WHERE login LIKE 'daniel'
+SELECT * FROM user WHERE login LIKE 'daniel'
+Koniec polaczenia
+
+jdbc:sqlite:/C:/Users/Daniel/Documents/NetBeansProjects/ProjectBuilder/src/projectbuilder/ProjectBuilder.db
+Poczatek polaczenia
+SELECT * FROM user WHERE login LIKE 'daniel'
+Koniec polaczenia
+
+jdbc:sqlite:/C:/Users/Daniel/Documents/NetBeansProjects/ProjectBuilder/src/projectbuilder/ProjectBuilder.db
+Poczatek polaczenia
+SELECT * FROM user WHERE login LIKE 'daniel'
+Koniec polaczenia
+
+jdbc:sqlite:/C:/Users/Daniel/Documents/NetBeansProjects/ProjectBuilder/src/projectbuilder/ProjectBuilder.db
+Poczatek polaczenia
+SELECT * FROM user WHERE login LIKE 'user2'
+Uzytkownik user2 zalogował sie dnia 2015-06-13 13:00:02
+Koniec polaczenia
+
+jdbc:mysql://localhost:3306/projektbaza?user=root&password=
+jdbc:mysql://localhost:3306/projektbaza?user=root&password=
+Poczatek polaczenia
+jdbc:mysql://localhost:3306/projektbaza?user=root&password=
+Poczatek polaczenia
+SELECT * FROM user WHERE login LIKE 'user1'
+Uzytkownik user1 zalogował sie dnia 2017-04-27 18:08:40.0
+INSERT INTO assign VALUES (?,'1','1','1','2017-04-29 00:00:00.0','2017-04-27 00:00:00.0')
+Koniec polaczenia
+
+jdbc:mysql://localhost:3306/projektbaza?user=root&password=
+Poczatek polaczenia
+jdbc:mysql://localhost:3306/projektbaza?user=root&password=
+Poczatek polaczenia
+SELECT * FROM user WHERE login LIKE 'user1'
+Uzytkownik user1 zalogował sie dnia null
+jdbc:mysql://localhost:3306/projektbaza?user=root&password=
+Poczatek polaczenia
+jdbc:mysql://localhost:3306/projektbaza?user=root&password=
+Poczatek polaczenia
