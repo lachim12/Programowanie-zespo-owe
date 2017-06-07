@@ -177,7 +177,6 @@ public class ProjectViewController {
             Scene scene = new Scene(loginView);
             Stage primaryStage = MainClass.getPrimaryStage();
             primaryStage.setScene(scene);
-            primaryStage.setFullScreen(true);
             primaryStage.show();
         } catch (IOException e) {
             e.printStackTrace();
@@ -192,7 +191,7 @@ public class ProjectViewController {
             Scene scene = new Scene(mainView);
             Stage primaryStage = MainClass.getPrimaryStage();
             primaryStage.setScene(scene);
-            primaryStage.setFullScreen(true);
+           
             primaryStage.show();
         } catch (IOException e) {
             e.printStackTrace();
@@ -206,7 +205,7 @@ public class ProjectViewController {
             Stage primaryStage = MainClass.getPrimaryStage();
             Scene scene = new Scene(taskView);
             primaryStage.setScene(scene);
-            primaryStage.setFullScreen(true);
+            
             primaryStage.show();
         } catch (IOException e) {
             e.printStackTrace();
@@ -221,7 +220,7 @@ public class ProjectViewController {
             Scene scene = new Scene(taskView);
             Stage primaryStage = MainClass.getPrimaryStage();
             primaryStage.setScene(scene);
-            primaryStage.setFullScreen(true);
+        
             primaryStage.show();
         } catch (IOException e) {
             e.printStackTrace();

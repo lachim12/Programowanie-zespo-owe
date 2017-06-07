@@ -188,7 +188,7 @@ public class DataBase {
 				query += "`" + columns_names[i] +"`='" + values[i] + "' WHERE " + standard_column + " LIKE '" + standard_value + "'";
 			}
 			
-			addHistory(query);
+			
 			System.out.println(query);
 			Statement stmt = conn.createStatement();
 			stmt.executeUpdate(query);
@@ -214,7 +214,6 @@ public class DataBase {
 	public boolean login(String login, String password) throws SQLException{
 		Statement stmt = conn.createStatement();               
 		String query = "SELECT * FROM user WHERE login LIKE '"+ login +"'";
-		addHistory(query);
 		ResultSet rs = stmt.executeQuery(query);
 		while(rs.next()){
 			if(login.equals(rs.getString(4))){                              
@@ -235,29 +234,12 @@ public class DataBase {
 	    java.util.Date today = new java.util.Date();
 	    return new java.sql.Timestamp(today.getTime());
 	}
-	//Dodaje wartosc ostatniego logowania
-	/*public void add_history(int id_user) throws SQLException{
-		try{
-			int id_max = last_id("login_history");
-			id_max += 1;
-			
-			PreparedStatement pStmt = conn.prepareStatement("INSERT INTO login_history(ID, id_user, date) values(?,?,?)");
-			pStmt.setInt(1, id_max);
-			pStmt.setInt(2, id_user);
-			pStmt.setTimestamp(3, getCurrentDate());
-			pStmt.executeUpdate();
-			pStmt.close();
-		}catch (SQLException E){
-			System.out.println(E); 
-		}
-	}*/
+	
 	//Zwraca ostatnie ID w tablicy
 	public int last_id(String table) throws SQLException {
 		int id_max = 0;
 		Statement stmt = conn.createStatement();
-		ResultSet rs = stmt.executeQuery("SELECT MAX("
-                        + ""
-                        + ") AS maxID FROM " + table);
+		ResultSet rs = stmt.executeQuery("SELECT MAX(ID) AS maxID FROM " + table);
 		
 		if (rs.next()){
 			id_max = rs.getInt("maxID");

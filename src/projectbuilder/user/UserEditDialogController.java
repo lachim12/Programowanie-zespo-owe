@@ -41,6 +41,7 @@ public class UserEditDialogController {
         email.setText(data.get_email());
         password.setText(data.get_password());
         isadmin.setText(data.get_isadmin());
+        isadmin.setSelected(data.get_isadmin().equals("1"));
         db = dbase;
     }
 

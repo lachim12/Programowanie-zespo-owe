@@ -309,5 +309,146 @@ SELECT * FROM user WHERE login LIKE 'user1'
 Uzytkownik user1 zalogował sie dnia null
 jdbc:mysql://localhost:3306/projektbaza?user=root&password=
 Poczatek polaczenia
+SELECT * FROM user WHERE login LIKE 'user1'
+SELECT * FROM user WHERE login LIKE 'user1'
+Uzytkownik user1 zalogował sie dnia null
+Koniec polaczenia
+
 jdbc:mysql://localhost:3306/projektbaza?user=root&password=
 Poczatek polaczenia
+SELECT * FROM user WHERE login LIKE 'user1'
+Uzytkownik user1 zalogował sie dnia null
+Koniec polaczenia
+
+jdbc:mysql://localhost:3306/projektbaza?user=root&password=
+Poczatek polaczenia
+SELECT * FROM user WHERE login LIKE 'user1'
+Uzytkownik user1 zalogował sie dnia null
+UPDATE task_state SET `id_task`='1',`state`='Zakonczone',`date`='2017-04-27 00:00:00.0' WHERE id_task LIKE '1'
+UPDATE task SET `id_project`='1',`name`='asa',`description`='p',`start_date`='2017-04-27 00:00:00.0',`deadline`='2017-04-28 00:00:00.0',`progress`='59.00' WHERE id LIKE '1'
+Koniec polaczenia
+
+jdbc:mysql://localhost:3306/projektbaza?user=root&password=
+Poczatek polaczenia
+SELECT * FROM user WHERE login LIKE 'user1'
+Uzytkownik user1 zalogował sie dnia null
+UPDATE task_state SET `id_task`='1',`state`='Zakonczone',`date`='2017-04-27 00:00:00.0' WHERE id_task LIKE '1'
+UPDATE task SET `id_project`='1',`name`='asaadssaf',`description`='p',`start_date`='2017-04-27 00:00:00.0',`deadline`='2017-04-28 00:00:00.0',`progress`='59.00' WHERE id LIKE '1'
+jdbc:mysql://localhost:3306/projektbaza?user=root&password=
+Poczatek polaczenia
+SELECT * FROM user WHERE login LIKE 'user1'
+Uzytkownik user1 zalogował sie dnia null
+UPDATE user SET `name`='user11',`surname`='surname1',`login`='user1',`email`='user@gmail.com',`password`='user1pass',`isadmin`='0' WHERE id LIKE '1'
+INSERT INTO user VALUES (?,'a','a','a','a','Ș','1')
+Koniec polaczenia
+
+Koniec polaczenia
+
+jdbc:mysql://localhost:3306/projektbaza?user=root&password=
+Poczatek polaczenia
+Koniec polaczenia
+
+jdbc:mysql://localhost:3306/projektbaza?user=root&password=
+Poczatek polaczenia
+Uzytkownik user1 zalogował sie dnia null
+Koniec polaczenia
+
+jdbc:mysql://localhost:3306/projektbaza?user=root&password=
+Poczatek polaczenia
+Uzytkownik user1 zalogował sie dnia null
+Koniec polaczenia
+
+jdbc:mysql://localhost:3306/projektbaza?user=root&password=
+Poczatek polaczenia
+Uzytkownik user1 zalogował sie dnia null
+Koniec polaczenia
+
+jdbc:mysql://localhost:3306/projektbaza?user=root&password=
+Poczatek polaczenia
+Uzytkownik a zalogował sie dnia null
+UPDATE user SET `name`='aa',`surname`='a',`login`='a',`email`='a',`password`='?',`isadmin`='0' WHERE id LIKE '4'
+Koniec polaczenia
+
+jdbc:mysql://localhost:3306/projektbaza?user=root&password=
+Poczatek polaczenia
+Uzytkownik a zalogował sie dnia null
+Koniec polaczenia
+
+jdbc:mysql://localhost:3306/projektbaza?user=root&password=
+Poczatek polaczenia
+Uzytkownik user1 zalogował sie dnia null
+Koniec polaczenia
+
+jdbc:mysql://localhost:3306/projektbaza?user=root&password=
+Poczatek polaczenia
+INSERT INTO user VALUES (?,'d','d','d','d','d','0')
+Uzytkownik d zalogował sie dnia null
+Koniec polaczenia
+
+jdbc:mysql://localhost:3306/projektbaza?user=root&password=
+Poczatek polaczenia
+Uzytkownik tt zalogował sie dnia null
+UPDATE user SET `name`='user1',`surname`='surname1',`login`='user1',`email`='user@gmail.com',`password`='user1pass',`isadmin`='0' WHERE id LIKE '1'
+UPDATE user SET `name`='user1',`surname`='surname1',`login`='user1',`email`='user@gmail.com',`password`='user1pass',`isadmin`='1' WHERE id LIKE '1'
+UPDATE user SET `name`='d',`surname`='d',`login`='d',`email`='d',`password`='d',`isadmin`='1' WHERE id LIKE '5'
+Koniec polaczenia
+
+jdbc:mysql://localhost:3306/projektbaza?user=root&password=
+Poczatek polaczenia
+Uzytkownik user1 zalogował sie dnia null
+UPDATE user SET `name`='user1',`surname`='surname1',`login`='user1',`email`='user@gmail.com',`password`='user1pass',`isadmin`='0' WHERE id LIKE '1'
+UPDATE user SET `name`='user1',`surname`='surname1',`login`='user1',`email`='user@gmail.com',`password`='user1pass',`isadmin`='1' WHERE id LIKE '1'
+UPDATE user SET `name`='user1',`surname`='surname1',`login`='user1',`email`='user@gmail.com',`password`='user1pass',`isadmin`='0' WHERE id LIKE '1'
+UPDATE user SET `name`='user1',`surname`='surname1',`login`='user1',`email`='user@gmail.com',`password`='user1pass',`isadmin`='0' WHERE id LIKE '1'
+UPDATE user SET `name`='user1',`surname`='surname1',`login`='user1',`email`='user@gmail.com',`password`='user1pass',`isadmin`='1' WHERE id LIKE '1'
+Koniec polaczenia
+
+jdbc:mysql://localhost:3306/projektbaza?user=root&password=
+Poczatek polaczenia
+Uzytkownik user1 zalogował sie dnia null
+UPDATE user SET `name`='user1',`surname`='surname1',`login`='user1',`email`='user@gmail.com',`password`='user1pass',`isadmin`='1' WHERE id LIKE '1'
+jdbc:mysql://localhost:3306/projektbaza?user=root&password=
+Poczatek polaczenia
+Uzytkownik user1 zalogował sie dnia null
+Koniec polaczenia
+
+jdbc:mysql://localhost:3306/projektbaza?user=root&password=
+Poczatek polaczenia
+Koniec polaczenia
+
+Koniec polaczenia
+
+jdbc:mysql://localhost:3306/projektbaza?user=root&password=
+Poczatek polaczenia
+Uzytkownik user1 zalogował sie dnia null
+Koniec polaczenia
+
+jdbc:mysql://localhost:3306/projektbaza?user=root&password=
+Poczatek polaczenia
+Uzytkownik user1 zalogował sie dnia null
+Koniec polaczenia
+
+jdbc:mysql://localhost:3306/projektbaza?user=root&password=
+Poczatek polaczenia
+Uzytkownik user1 zalogował sie dnia null
+Koniec polaczenia
+
+jdbc:mysql://localhost:3306/projektbaza?user=root&password=
+Poczatek polaczenia
+Uzytkownik user1 zalogował sie dnia null
+Koniec polaczenia
+
+jdbc:mysql://localhost:3306/projektbaza?user=root&password=
+Poczatek polaczenia
+Uzytkownik user1 zalogował sie dnia null
+Koniec polaczenia
+
+jdbc:mysql://localhost:3306/projektbaza?user=root&password=
+Poczatek polaczenia
+Koniec polaczenia
+
+jdbc:mysql://localhost:3306/projektbaza?user=root&password=
+Poczatek polaczenia
+Uzytkownik user1 zalogował sie dnia null
+Koniec polaczenia
+

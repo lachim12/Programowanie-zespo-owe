@@ -28,6 +28,7 @@ import javafx.util.Callback;
 
 import projectbuilder.DataBase;
 import projectbuilder.MainClass;
+import projectbuilder.task.TaskEditDialogController;
 
 public class UserViewController {
 
@@ -159,6 +160,10 @@ public static void main(String[] args) {
             dialogStage.initOwner(MainClass.getPrimaryStage());
             Scene scene = new Scene(page);
             dialogStage.setScene(scene);
+            UserData userData=table.getSelectionModel().getSelectedItem();
+            UserEditDialogController controller = loader.getController();
+            controller.setDialogStage(dialogStage);
+            controller.setData(userData, db);
 
             dialogStage.show();
        
@@ -175,7 +180,7 @@ public static void main(String[] args) {
             Scene scene = new Scene(loginView);
             Stage primaryStage = MainClass.getPrimaryStage();
             primaryStage.setScene(scene);
-            primaryStage.setFullScreen(true);
+           
             primaryStage.show();
         } catch (IOException e) {
             e.printStackTrace();
@@ -190,7 +195,7 @@ public static void main(String[] args) {
             Scene scene = new Scene(mainView);
             Stage primaryStage = MainClass.getPrimaryStage();
             primaryStage.setScene(scene);
-            primaryStage.setFullScreen(true);
+     
             primaryStage.show();
         } catch (IOException e) {
             e.printStackTrace();
@@ -205,7 +210,7 @@ public static void main(String[] args) {
             Scene scene = new Scene(projectView);
             Stage primaryStage = MainClass.getPrimaryStage();
             primaryStage.setScene(scene);
-            primaryStage.setFullScreen(true);
+          
             primaryStage.show();
         } catch (IOException e) {
             e.printStackTrace();
@@ -218,8 +223,7 @@ public static void main(String[] args) {
             AnchorPane taskView = (AnchorPane) loader.load();
             Stage primaryStage = MainClass.getPrimaryStage();
             Scene scene = new Scene(taskView);
-            primaryStage.setScene(scene);
-            primaryStage.setFullScreen(true);
+            primaryStage.setScene(scene);  
             primaryStage.show();
         } catch (IOException e) {
             e.printStackTrace();

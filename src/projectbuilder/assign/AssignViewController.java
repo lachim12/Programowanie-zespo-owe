@@ -217,7 +217,6 @@ public class AssignViewController {
             Scene scene = new Scene(loginView);
             Stage primaryStage = MainClass.getPrimaryStage();
             primaryStage.setScene(scene);
-            primaryStage.setFullScreen(true);
             primaryStage.show();
         } catch (IOException e) {
             e.printStackTrace();
@@ -234,7 +233,7 @@ public class AssignViewController {
             Scene scene = new Scene(projectView);
             Stage primaryStage = MainClass.getPrimaryStage();
             primaryStage.setScene(scene);
-            primaryStage.setFullScreen(true);
+            
             primaryStage.show();
         } catch (IOException e) {
             e.printStackTrace();
@@ -250,7 +249,7 @@ public class AssignViewController {
             Stage primaryStage = MainClass.getPrimaryStage();
             Scene scene = new Scene(taskView);
             primaryStage.setScene(scene);
-            primaryStage.setFullScreen(true);
+          
             primaryStage.show();
         } catch (IOException e) {
             e.printStackTrace();
@@ -267,7 +266,7 @@ public class AssignViewController {
             Scene scene = new Scene(taskView);
             Stage primaryStage = MainClass.getPrimaryStage();
             primaryStage.setScene(scene);
-            primaryStage.setFullScreen(true);
+         
             primaryStage.show();
         } catch (IOException e) {
             e.printStackTrace();

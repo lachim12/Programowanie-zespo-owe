@@ -199,7 +199,7 @@ public class TaskViewController {
             Scene scene = new Scene(loginView);
             Stage primaryStage = MainClass.getPrimaryStage();
             primaryStage.setScene(scene);
-            primaryStage.setFullScreen(true);
+           
             primaryStage.show();
         } catch (IOException e) {
             e.printStackTrace();
@@ -214,7 +214,7 @@ public class TaskViewController {
             Scene scene = new Scene(mainView);
             Stage primaryStage = MainClass.getPrimaryStage();
             primaryStage.setScene(scene);
-            primaryStage.setFullScreen(true);
+           
             primaryStage.show();
         } catch (IOException e) {
             e.printStackTrace();
@@ -229,7 +229,7 @@ public class TaskViewController {
             Scene scene = new Scene(projectView);
             Stage primaryStage = MainClass.getPrimaryStage();
             primaryStage.setScene(scene);
-            primaryStage.setFullScreen(true);
+            
             primaryStage.show();
         } catch (IOException e) {
             e.printStackTrace();
@@ -244,7 +244,7 @@ public class TaskViewController {
             Scene scene = new Scene(taskView);
             Stage primaryStage = MainClass.getPrimaryStage();
             primaryStage.setScene(scene);
-            primaryStage.setFullScreen(true);
+         
             primaryStage.show();
         } catch (IOException e) {
             e.printStackTrace();
