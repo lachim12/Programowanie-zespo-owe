@@ -23,6 +23,7 @@ import java.sql.Timestamp;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
+import javafx.scene.control.Alert;
 
 /**
  * Klasa zajmujaca sie przetwarzaniem danych z bazy danych
@@ -152,9 +153,14 @@ public class DataBase {
             pStmt.setInt(1, id_max);
             System.out.println(query);
             pStmt.executeUpdate();
-            pStmt.close();
+            //pStmt.close();
         } catch (SQLException e) {
-            e.printStackTrace();
+			e.printStackTrace(); 
+                        Alert alert = new Alert(Alert.AlertType.ERROR);
+			alert.setTitle("Blad");
+			alert.setHeaderText(null);
+			alert.setContentText("Podany Login istnieje!");
+			alert.showAndWait();
         }
     }
 
